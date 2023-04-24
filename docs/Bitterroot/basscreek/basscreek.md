@@ -1,1 +1,1 @@
-# [Bitteroot Valley]([Bitteroot Valley](/Bitterroot/index.md))
+# [Bitteroot Valley]([Bitteroot Valley](../Bitterroot/index.md))
