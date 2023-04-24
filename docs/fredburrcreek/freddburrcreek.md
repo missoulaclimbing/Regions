@@ -1,3 +1,3 @@
 # Fredd Burr Routes
 
-[The Chimney](docs/fredburrcreek/thechimney.md)
+[The Chimney](thechimney.md)
