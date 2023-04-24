@@ -33,3 +33,5 @@ Zak Loves Wang, so does Pete
 
 [Lost Horse](losthorse/losthorse.md)
 
+[Trapper Creek](trappercreek/trappercreek.md)
+

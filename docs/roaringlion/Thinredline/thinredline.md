@@ -1,0 +1,1 @@
+https://publications.americanalpineclub.org/articles/12200119501
