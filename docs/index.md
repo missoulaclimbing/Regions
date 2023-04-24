@@ -1,3 +1,3 @@
 # Regions
 
-[Bitteroot Valley](Bitterroot/index.md)
+[Bitteroot Valley](/Bitterroot/index.md)
