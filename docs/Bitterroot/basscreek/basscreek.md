@@ -1,1 +1,0 @@
-# [Bitteroot Valley]([Bitteroot Valley](https://missoulaclimbing.github.io/Regions/Bitterroot/index.md))
