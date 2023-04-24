@@ -1,36 +1,36 @@
-# Bitterroot Valley Climbs By Valley
+# Climbs By Valley -> Area
 
-[Bass Creek](basscreek/basscreek.md)
-
-
-[Kootenai](kootenai/kootenai.md)
+[Bass Creek](/basscreek/basscreek.md)
 
 
-[Big Creek](bigcreek/bigcreek.md)
+[Kootenai](/kootenai/kootenai.md)
 
 
-[Sweat House](sweathouse/sweathouse.md)
+[Big Creek](/bigcreek/bigcreek.md)
 
 
-[Bear Crick](bearcreek/bearcreek.md)
+[Sweat House](/sweathouse/sweathouse.md)
 
 
-[Fred Burr](fredburrcreek/freddburrcreek.md)
+[Bear Crick](/bearcreek/bearcreek.md)
 
 
-[Mill Creek](millcreek/millcreek.md)
+[Fred Burr](/fredburrcreek/freddburrcreek.md)
 
 
-[Blodgett](blodgettcanyon/blodgettcanyon.md)
+[Mill Creek](/millcreek/millcreek.md)
 
 
-[Sawtooth](sawtooth/sawtooth.md)
+[Blodgett](/blodgettcanyon/blodgettcanyon.md)
 
 
-[Roaring Lion](roaringlion/roaringlion.md)
+[Sawtooth](/sawtooth/sawtooth.md)
 
 
-[Lost Horse](losthorse/losthorse.md)
+[Roaring Lion](/roaringlion/roaringlion.md)
 
-[Trapper Creek](trappercreek/trappercreek.md)
+
+[Lost Horse](/losthorse/losthorse.md)
+
+[Trapper Creek](/trappercreek/trappercreek.md)
 
