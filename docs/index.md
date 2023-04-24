@@ -1,5 +1,4 @@
 # Bitterroot Valley Climbs By Valley
-Zak Loves Wang, so does Pete
 
 [Bass Creek](basscreek/basscreek.md)
 
