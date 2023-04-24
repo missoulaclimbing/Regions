@@ -16,7 +16,7 @@ Zak Loves Wang, so does Pete
 [Bear Crick](docs/bearcreek/bearcreek.md)
 
 
-[Fred Burr](docs/fredburrcreek/freddburr.md)
+[Fred Burr](docs/fredburrcreek/freddburrcreek.md)
 
 
 [Mill Creek](docs/millcreek/millcreek.md)
