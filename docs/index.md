@@ -1,35 +1,35 @@
 # Bitterroot Valley Climbs By Valley
 Zak Loves Wang, so does Pete
 
-[Bass Creek](docs/basscreek/basscreek.md)
+[Bass Creek](basscreek/basscreek.md)
 
 
-[Kootenai](docs/kootenai/kootenai.md)
+[Kootenai](kootenai/kootenai.md)
 
 
-[Big Creek](docs/bigcreek/bigcreek.md)
+[Big Creek](bigcreek/bigcreek.md)
 
 
-[Sweat House](docs/sweathouse/sweathouse.md)
+[Sweat House](sweathouse/sweathouse.md)
 
 
-[Bear Crick](docs/bearcreek/bearcreek.md)
+[Bear Crick](bearcreek/bearcreek.md)
 
 
 [Fred Burr](fredburrcreek/freddburrcreek.md)
 
 
-[Mill Creek](docs/millcreek/millcreek.md)
+[Mill Creek](millcreek/millcreek.md)
 
 
-[Blodgett](docs/blodgettcanyon/blodgettcanyon.md)
+[Blodgett](blodgettcanyon/blodgettcanyon.md)
 
 
-[Sawtooth](docs/sawtooth/sawtooth.md)
+[Sawtooth](sawtooth/sawtooth.md)
 
 
-[Roaring Lion](docs/roaringlion/roaringlion.md)
+[Roaring Lion](roaringlion/roaringlion.md)
 
 
-[Lost Horse](docs/losthorse/losthorse.md)
+[Lost Horse](losthorse/losthorse.md)
 
